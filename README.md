@@ -4,6 +4,8 @@
 
 A sleek, compact, and privacy-first web app to check image aspect ratios, dimensions, and more—right in your browser.
 
+<img width="1509" alt="image" src="https://github.com/user-attachments/assets/237524ae-a9b9-43c9-b17a-04afa6d4c243" />
+
 ---
 
 ## ✨ Features
@@ -22,7 +24,7 @@ A sleek, compact, and privacy-first web app to check image aspect ratios, dimens
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/Siddhant-K-code/aspectsnap.git
-   cd aspectsnap
+   cd aspect-snap
    ```
 2. **Install dependencies:**
    ```bash
